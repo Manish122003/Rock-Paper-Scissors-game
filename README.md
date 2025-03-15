@@ -31,7 +31,7 @@ Rock-Paper-Scissors/ │── images/ # Contains game icons (rock, paper, sciss
 ## **📥 Installation & Usage**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Manish122003/Rock-Paper-Scissors-game
+   git clone  https://github.com/Manish122003/Rock-Paper-Scissors-game
 2. Open the index.html file in your browser.
 3. Enjoy playing the game! 🎉
 
