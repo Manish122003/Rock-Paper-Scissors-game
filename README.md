@@ -40,12 +40,18 @@ Rock-Paper-Scissors/ │── images/ # Contains game icons (rock, paper, sciss
   CSS → Styling and animations
   JavaScript → Game logic
 
-🌍 Live Demo
-👉 Play Now ([Update with your hosted link, e.g., GitHub Pages, Netlify, Vercel, etc.](https://manish122003.github.io/Rock-Paper-Scissors-game/))
+---
 
-📜 License
+##🌍 Live Demo
+👉 ([Play Now](https://manish122003.github.io/Rock-Paper-Scissors-game/))
+
+---
+
+##📜 License
 This project is open-source and free to use. Feel free to modify and improve it! 🚀
 
-📧 Contact & Contribution
+---
+
+##📧 Contact & Contribution
 Want to contribute? Fork the repo and create a pull request.
 For any issues, feel free to open an issue.
