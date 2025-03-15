@@ -16,11 +16,11 @@ A simple **Rock-Paper-Scissors** game built using **HTML, CSS, and JavaScript**.
 
 ## **📂 Project Structure**  
 
-Rock-Paper-Scissors/
-│── 📁 images/ # Contains game icons (rock, paper, scissors)
-│── 📄 index.html # Main HTML file
-│── 🎨 style.css # Styling for the game
-│── ⚙️ app.js # Game logic (JavaScript)
+Rock-Paper-Scissors <br>
+│── 📁 images/ # Contains game icons (rock, paper, scissors) <br>
+│── 📄 index.html # Main HTML file <br>
+│── 🎨 style.css # Styling for the game <br>
+│── ⚙️ app.js # Game logic (JavaScript) <br>
 │── 📖 README.md # Project documentation
 
 ---
