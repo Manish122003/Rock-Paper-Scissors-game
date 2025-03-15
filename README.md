@@ -38,9 +38,9 @@ Rock-Paper-Scissors/ │── images/ # Contains game icons (rock, paper, sciss
 --- 
 
 ## 🛠️ Technologies Used
-  HTML → Structure of the game
-  CSS → Styling and animations
-  JavaScript → Game logic
+1. HTML → Structure of the game.
+2. CSS → Styling and animations.
+3. JavaScript → Game logic.
 
 ---
 
@@ -54,6 +54,6 @@ This project is open-source and free to use. Feel free to modify and improve it!
 
 ---
 
-##📧 Contact & Contribution
+## 📧 Contact & Contribution
 Want to contribute? Fork the repo and create a pull request.
 For any issues, feel free to open an issue.
