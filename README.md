@@ -35,19 +35,21 @@ Rock-Paper-Scissors/ │── images/ # Contains game icons (rock, paper, sciss
 2. Open the index.html file in your browser.
 3. Enjoy playing the game! 🎉
 
-🛠️ Technologies Used
+--- 
+
+## 🛠️ Technologies Used
   HTML → Structure of the game
   CSS → Styling and animations
   JavaScript → Game logic
 
 ---
 
-##🌍 Live Demo
+## **🌍 Live Demo**
 👉 ([Play Now](https://manish122003.github.io/Rock-Paper-Scissors-game/))
 
 ---
 
-##📜 License
+## **📜 License**
 This project is open-source and free to use. Feel free to modify and improve it! 🚀
 
 ---
