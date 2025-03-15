@@ -1,16 +1,19 @@
-*{
+* {
     margin: 0;
     padding: 0;
-    text-align: center
+    text-align: center;
+    font-family: Arial, sans-serif;
 }
 
-h1{
+h1 {
     background-color: #081b31;
     color: #fff;
     height: 5rem;
     line-height: 5rem;
+    font-size: 2rem;
 }
-.choices{
+
+.choices {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,52 +21,65 @@ h1{
     margin-top: 5rem;
 }
 
-.choice{
+.choice {
     height: 135px;
     width: 135px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    transition: transform 0.2s ease, background-color 0.3s ease;
 }
 
-.choice:hover{
+.choice:hover {
     background-color: #081b31;
     cursor: pointer;
+    transform: scale(1.1);
 }
 
-img{
+.choice:active {
+    transform: scale(0.9);
+}
+
+img {
     height: 100px;
     width: 100px;
     object-fit: cover;
     border-radius: 50%;
 }
 
-.score-board{
+.score-board {
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 2rem;
     margin-top: 3rem;
     gap: 5rem;
-
 }
 
-#user-score , #comp-score{
+#user-score,
+#comp-score {
     font-size: 4rem;
+    font-weight: bold;
+    color: #081b31;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-.msg-container{
+.msg-container {
     margin-top: 3rem;
 }
 
-#msg{
-    margin-top: 5rem;
-    display: inline;
-    background-color:#081b31;
+#msg {
+    display: inline-block;
+    background-color: #081b31;
     color: #fff;
     font-size: 2rem;
-    padding: 1rem;
+    padding: 1rem 2rem;
     border-radius: 1rem;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+#msg:hover {
+    background-color: #06305b;
+    transform: scale(1.05);
 }
